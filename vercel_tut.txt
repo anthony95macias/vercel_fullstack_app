@@ -1,1 +1,2 @@
-https://vercel.com/guides/nextjs-prisma-postgres
+article: https://vercel.com/guides/nextjs-prisma-postgres
+github post: https://github.com/prisma/fullstack-prisma-nextjs-blog
