@@ -25,6 +25,7 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    "prisma/**/*.ts" // Add this line to include the seed.ts file
   ]
 }
